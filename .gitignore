@@ -23,3 +23,4 @@ map4you.iml
 .idea/libraries/Maven__org_springframework_spring_jdbc_4_0_9_RELEASE.xml
 .idea/libraries/Maven__org_springframework_spring_orm_4_0_9_RELEASE.xml
 .idea/libraries/Maven__org_springframework_spring_tx_4_0_9_RELEASE.xml
+.idea/*
