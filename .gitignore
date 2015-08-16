@@ -6,3 +6,5 @@ map4you.iml
 .idea/misc.xml
 .idea/copyright/profiles_settings.xml
 .idea/.name
+.idea/libraries/Maven__junit_junit_4_11.xml
+.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
